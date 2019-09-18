@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HDPE</folder>
+	<filename>HDPE - 3.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/HDPE/HDPE - 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3112</width>
+		<height>4149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDPE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1170</xmin>
+			<ymin>1268</ymin>
+			<xmax>1975</xmax>
+			<ymax>3220</ymax>
+		</bndbox>
+	</object>
+</annotation>

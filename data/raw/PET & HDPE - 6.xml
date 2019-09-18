@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HDPE</folder>
+	<filename>PET &amp; HDPE - 6.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/HDPE/PET &amp; HDPE - 6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>726</xmin>
+			<ymin>1267</ymin>
+			<xmax>2865</xmax>
+			<ymax>2086</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HDPE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2916</xmin>
+			<ymin>1506</ymin>
+			<xmax>3058</xmax>
+			<ymax>1806</ymax>
+		</bndbox>
+	</object>
+</annotation>

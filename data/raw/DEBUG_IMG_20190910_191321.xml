@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PP</folder>
+	<filename>DEBUG_IMG_20190910_191321.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/PP/DEBUG_IMG_20190910_191321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>1245</ymin>
+			<xmax>3784</xmax>
+			<ymax>2222</ymax>
+		</bndbox>
+	</object>
+</annotation>

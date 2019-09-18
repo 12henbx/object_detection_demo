@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PET</folder>
+	<filename>PET - 2.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/PET/PET - 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDPE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>108</ymin>
+			<xmax>778</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>303</ymin>
+			<xmax>809</xmax>
+			<ymax>1174</ymax>
+		</bndbox>
+	</object>
+</annotation>

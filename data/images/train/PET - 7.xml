@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PET</folder>
+	<filename>PET - 7.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/PET/PET - 7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>59</ymin>
+			<xmax>395</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

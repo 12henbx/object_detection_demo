@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PP</folder>
+	<filename>PP - 3.jpg</filename>
+	<path>/home/henbx/Pictures/dataset/PP/PP - 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3112</width>
+		<height>4149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>975</xmin>
+			<ymin>1720</ymin>
+			<xmax>1444</xmax>
+			<ymax>2624</ymax>
+		</bndbox>
+	</object>
+</annotation>
